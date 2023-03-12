@@ -1,5 +1,5 @@
 ### Hi, I'm Asrın
-
+Final year computer engineering student seeking to specialize in system security, networking, and network security
 <!--
 **asrinhaktan/asrinhaktan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
