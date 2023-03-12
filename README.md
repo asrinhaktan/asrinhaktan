@@ -3,7 +3,7 @@
 
 ### Hi, I'm Asrın
 
-Final year computer engineering student seeking to specialize in system security, networking, and network security.
+Final year computer engineering student seeking to specialize in pentesting, networking, and network security.
 
 ![](https://komarev.com/ghpvc/?username=asrinhaktan&color=red)
 
