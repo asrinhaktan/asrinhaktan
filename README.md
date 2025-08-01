@@ -4,16 +4,16 @@
 ### Hi, I'm Asrın
 <h3>Which technologies can I use?</h3>
 <ul>
-<li>-Firewall</li>
--Switch
--Access Point
--Sandbox
--Endpoint Security
--Mail Gateway
--EDR
--NDR
--XDR
-</ul>
+<li>Firewall</li>
+<li>Switch</li>
+<li>Access Point</li>
+<li>Sandbox Technologies</li>
+<li>Antivirus Systems</li>
+<li>Secure Mail Technologies</li>
+<li>EDR</li>
+<li>NDR</li>
+<li>XDR</li>
+
 
 ![](https://komarev.com/ghpvc/?username=asrinhaktan&color=red)
 
