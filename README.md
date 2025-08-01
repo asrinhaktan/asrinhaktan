@@ -3,7 +3,15 @@
 
 ### Hi, I'm Asrın
 
-Cyber Security Specialist at elFAnet.
+-Firewall
+-Switch
+-Access Point
+-Sandbox
+-Endpoint Security
+-Mail Gateway
+-EDR
+-NDR
+-XDR
 
 ![](https://komarev.com/ghpvc/?username=asrinhaktan&color=red)
 
