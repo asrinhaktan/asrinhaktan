@@ -3,13 +3,10 @@
 
 ### Hi, I'm Asrın
 
-Final year computer engineering student seeking to specialize in pentesting, networking, and network security.
+Cyber Security Specialist at elFAnet.
 
 ![](https://komarev.com/ghpvc/?username=asrinhaktan&color=red)
 
-### The apps and languages I work with:
 
-<img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/Cisco-Packet-Tracer.jpg" width="40" height="40"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/1200px-Java_Logo.svg.png" width="30" height="45"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/267_Python-512.webp" width="40" height="40"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/5968242.png" width="40" height="40"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/Android_Studio_Icon_(2014-2019).svg.png" width="40" height="40"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/Kali-dragon-icon.svg.png" width="40" height="45"> <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/Wireshark_icon.svg.png" width="40" height="39">
-<br></br>
 <h3>Contact Me:</h3>
 <a href="https://www.linkedin.com/in/asrın-haktan-şahin-3a6b03195/" target="_blank"><img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/174857.png" alt="fotoğraf yok" height="40" width="40"></a>   <a href="mailto:asrinhaktan@icloud.com" target="_blank"><img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/Apple_Mail-512.jpg" alt="fotoğraf yok" height="40" width="40"></a>
