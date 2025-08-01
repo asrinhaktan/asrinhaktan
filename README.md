@@ -2,8 +2,9 @@
 <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/cs-an.gif" width="800" height="500">
 
 ### Hi, I'm Asrın
-<h3>Technologies</h3>
--Firewall
+<h3>Which technologies can I use?</h3>
+<ul>
+<li>-Firewall</li>
 -Switch
 -Access Point
 -Sandbox
@@ -12,6 +13,7 @@
 -EDR
 -NDR
 -XDR
+</ul>
 
 ![](https://komarev.com/ghpvc/?username=asrinhaktan&color=red)
 
