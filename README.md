@@ -1,7 +1,7 @@
 
 <img src="https://github.com/asrinhaktan/asrinhaktan/blob/main/cs-an.gif" width="800" height="500">
 
-### Hi, I'm Asrın
+### Hi, I'm Asrın Haktan
 <h3>Which technologies can I use?</h3>
 <ul>
 <li>Firewall</li>
